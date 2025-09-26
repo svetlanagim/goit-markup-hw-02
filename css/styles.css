@@ -159,8 +159,8 @@
  }
 
  .team-user {
-     width: 264px;
-     height: 260px;
+     /* width: 264px;
+     height: 260px; */
  }
 
  .user-name {
@@ -201,8 +201,8 @@
  .portfolio-item {}
 
  .portfolio-img {
-     width: 360px;
-     height: 300px;
+     /* width: 360px;
+     height: 300px; */
  }
 
  .portfolio-name {
