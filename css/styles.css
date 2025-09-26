@@ -95,7 +95,6 @@
      line-height: 1.5;
      letter-spacing: 0.04em;
      color: #fff;
-     /* box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15); */
      background: #4d5ae5;
      cursor: pointer
  }
@@ -155,14 +154,10 @@
  .team-list {}
 
  .team-item {
-     /* box-shadow: 0 2px 1px 0 rgba(46, 47, 66, 0.08), 0 1px 1px 0 rgba(46, 47, 66, 0.16), 0 1px 6px 0 rgba(46, 47, 66, 0.08); */
      background: #fff;
  }
 
- .team-user {
-     /* width: 264px;
-     height: 260px; */
- }
+ .team-user {}
 
  .user-name {
      font-weight: 500;
@@ -202,10 +197,7 @@
 
  .portfolio-item {}
 
- .portfolio-img {
-     /* width: 360px;
-     height: 300px; */
- }
+ .portfolio-img {}
 
  .portfolio-name {
      font-weight: 500;
